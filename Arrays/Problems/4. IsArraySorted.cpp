@@ -2,7 +2,7 @@
 using namespace std;
 
 /* ------------- APPROACHES ------------- 
-   1. Linear Traverse with condition - [TC - O(n)]
+   1. Linear Traverse with condition - [TC - O(n)] [SC - O(1)]
 */
 
 bool isArraySorted(int numbers[], int size) {
