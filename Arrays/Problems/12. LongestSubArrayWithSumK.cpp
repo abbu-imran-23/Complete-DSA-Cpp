@@ -3,7 +3,7 @@ using namespace std;
 
 /* ------------- APPROACHES ------------- 
    1. Use Two For Loops - [TC - O(n^2)] [SC - O(1)]
-   2. Using Sum - [TC - O(n)] [SC - O(1)]
+   2. Two Pointer Approach - [TC - O(2n)] [SC - O(1)]
 */
 
 // Approach 1
